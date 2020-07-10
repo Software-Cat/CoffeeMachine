@@ -1,0 +1,12 @@
+
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8Ìë­´³.
+O
+java:S1444"-Make this "public static counter" field final(ˆ‹„ğúÿÿÿÿ8²¤¯´³.
+7
+java:S1220""Move this file to a named package.8ç²¬´³.
+l
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8›¸®´³.
+u
+java:S1104"SMake counter a static final constant or non-public and provide accessors if needed.(ˆ‹„ğúÿÿÿÿ8²¤¯´³.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(®€©8£®¶´³.
